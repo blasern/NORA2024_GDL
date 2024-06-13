@@ -1,0 +1,1 @@
+Solve the exercises [here](https://colab.research.google.com/drive/1h7U15-qFC2yy6roRIfLPk5TSlo6sONsm#scrollTo=f7hjxzT34dK-)
